@@ -1,0 +1,17 @@
+/Users/serbantimofte/Documents/StockScanner/bin/Debug/net9.0/StockScanner
+/Users/serbantimofte/Documents/StockScanner/bin/Debug/net9.0/StockScanner.deps.json
+/Users/serbantimofte/Documents/StockScanner/bin/Debug/net9.0/StockScanner.runtimeconfig.json
+/Users/serbantimofte/Documents/StockScanner/bin/Debug/net9.0/StockScanner.dll
+/Users/serbantimofte/Documents/StockScanner/bin/Debug/net9.0/StockScanner.pdb
+/Users/serbantimofte/Documents/StockScanner/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.csproj.AssemblyReference.cache
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.AssemblyInfoInputs.cache
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.AssemblyInfo.cs
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.csproj.CoreCompileInputs.cache
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockSca.F41D34B4.Up2Date
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.dll
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/refint/StockScanner.dll
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.pdb
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.genruntimeconfig.cache
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/ref/StockScanner.dll
