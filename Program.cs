@@ -17,7 +17,7 @@ class Program
         await session.IniatilizeAsync();
 
         var client = new YahooClient(session);
-        var analyzer = new StockAnalyzer();
+        var analyzer = new StockAnalyzer(minMarketCap: 2_000_000_000, excludeOtc: true, excludeChina: true);
 
         Console.WriteLine("[EVENT] Fetching Yahoo Largest Market Cap tickers...");
         var tickers = await TickerSource.GetYahooLargestMarketCapTickersAsync(

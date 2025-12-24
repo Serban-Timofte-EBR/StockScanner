@@ -15,3 +15,4 @@
 /Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.pdb
 /Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.genruntimeconfig.cache
 /Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/ref/StockScanner.dll
+/Users/serbantimofte/Documents/StockScanner/obj/Debug/net9.0/StockScanner.sourcelink.json
